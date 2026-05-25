@@ -54,21 +54,10 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Reading books helps me boost my **self-awareness and emotional intelligence**.<br>
 
 <div align="center">
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&show_icons=true" />
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&layout=compact" />
-
-</div>
-
-<details>
-  <summary>More stats</summary>
-  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdAlqader-saadeh&theme=nord&hide_border=true&background=2e3440" >
 
-</details>
+</div>
+  
   
 <hr></hr>
 
