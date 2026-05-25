@@ -53,13 +53,15 @@ class About extends Me {
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[@AbdAlqader-saadeh](https://t.me/AbdAlqader-saadeh)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Reading books helps me boost my **self-awareness and emotional intelligence**.<br>
 
-<div align="center" >
-<a  href="https://github.com/AbdAlqader-saadeh">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&theme=nord&show_icons=true&hide_border=true&title_color=ffffff&text_color=d8dee9&bg_color=2e3440" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&theme=nord&layout=compact&hide_border=true&title_color=ffffff&text_color=d8dee9&bg_color=2e3440" width="45%">
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&show_icons=true" />
 
-</a>
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&layout=compact" />
+
+</div>
 
 <details>
   <summary>More stats</summary>
