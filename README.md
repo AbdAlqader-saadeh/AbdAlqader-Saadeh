@@ -1,98 +1,95 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=240&section=header&text=Mohamed%20Zuhair&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=240&section=header&text=AbdAlqader%20Saadeh&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Hello, I'm Mohamed Zuhair Al Shell</h1>
+<h1 align="center">👋 Hello, I'm AbdAlqader Saadeh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B;C%23+%7C+.NET+Framework;SQL+%7C+ERD+%7C+Relational+Schema;OOP+%7C+Functional+Programming;Problem+Solving+"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Laravel+%7C+PHP+%7C+MySQL;C%23+%7C+.NET+Framework;Object-Oriented+Programming;Database+Design+%7C+SQL;Problem+Solving+%7C+Algorithms"/>
 </p>
-
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Passionate about **Software Development**, **Database Design**, and **Problem Solving**
+💻 Passionate **Software Developer** and Computer Information Systems student at the University of Jordan. I specialize in building robust web applications using Laravel and desktop solutions using C#.
 
-📚 Currently Learning & Improving:
+📚 **Currently Learning & Improving:**
+🔹 Advanced Software Architecture & Design Patterns
+🔹 Enterprise Application Development
+🔹 Professional Communication & Emotional Intelligence (McKinsey Forward Journey)
 
-🔹 C++ (OOP & Functional Programming)
-
-🔹 C# & .NET Framework Development
-
-🔹 Windows Forms Desktop Applications
-
-🔹 SQL Server & Database Systems
-
-🔹 ERD (Entity Relationship Diagram)
-
-🔹 Relational Schema Design
-
-🔹 Problem Solving & Logic Building
-
-📈 Building projects to improve programming, design patterns, and software architecture skills.
-
-📍 Following the **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor: **Dr. Mohammed Abu-Hadhoud**
-
+📈 **What I Do:**
+*   Develop full-stack web applications with complex permission and management systems.
+*   Design optimized database schemas and relational models.
+*   Apply OOP principles to write clean, maintainable, and scalable code.
 
 ---
 
 # 🛠 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,sqlserver"/>
-
-  
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,cs,dotnet,cpp,js,html,css,bootstrap,git,github,visualstudio"/>
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ERD-203A43?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Relational_Schema-2C5364?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Design-2C5364?style=for-the-badge"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏫 School-App (Educational Management Platform)
+A comprehensive Learning Management System built with **Laravel** to manage courses, students, and educational workflows.
+
+### ⏱️ Attendance Management System
+A web application built using **Laravel 11** and **Bootstrap 5** featuring multi-level permissions, role management, and shift tracking.
+
+### 🏦 Bank Management System
+A desktop application designed and built using **C++** and core **Object-Oriented Programming (OOP)** principles to simulate banking operations.
 
 ---
 
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhairSh&theme=tokyo-night"/>
+<!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك على جيتهاب ليظهر الرسم البياني الخاص بك -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 </p>
+
 ---
 
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairSh&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhairSh&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhairSh&theme=tokyonight"/>
-
+<!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك على جيتهاب في الروابط الثلاثة أدناه -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 </p>
 
-# 📬 Contact Me
+---
+
+# 📬 Connect With Me
 
 <p align="center">
 
-<a href="mailto:zuhair.al.shell@gmail.com">
+<!-- ضع رابط بريدك الإلكتروني هنا -->
+<a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/96877002286">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<!-- ضع رابط حسابك على لينكد إن هنا -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Zuhair_Shell">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+<!-- ضع رابط حسابك على جيتهاب هنا -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
