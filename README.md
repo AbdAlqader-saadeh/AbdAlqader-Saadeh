@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=240&section=header&text=AbdAlqader%20Saadeh&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hello, I'm AbdAlqader Saadeh</h1>
@@ -56,15 +55,12 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-  <!-- إحصائيات الحساب العامة الحقيقية لـ AbdAlqader-saadeh -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&show_icons=true&theme=tokyonight&count_private=true"/>
   
-  <!-- اللغات الأكثر استخداماً في حسابك -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <!-- عداد الـ Streak للمساهمات المستقرة -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdAlqader-saadeh&theme=tokyonight"/>
 </p>
 
@@ -74,12 +70,10 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 <p align="center">
 
-<!-- يمكنك تعديل بريدك الإلكتروني هنا -->
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- يمكنك وضع رابط حسابك على لينكد إن هنا مكان YOUR_LINKEDIN_USERNAME -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -92,5 +86,4 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 ---
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
