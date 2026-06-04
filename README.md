@@ -19,9 +19,9 @@
 🔹 Professional Communication & Emotional Intelligence (McKinsey Forward Journey)
 
 📈 **What I Do:**
-*   Develop full-stack web applications with complex permission and management systems.
-*   Design optimized database schemas and relational models.
-*   Apply OOP principles to write clean, maintainable, and scalable code.
+* Develop full-stack web applications with complex permission and management systems.
+* Design optimized database schemas and relational models.
+* Apply OOP principles to write clean, maintainable, and scalable code.
 
 ---
 
@@ -53,23 +53,19 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك على جيتهاب ليظهر الرسم البياني الخاص بك -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- إحصائيات الحساب العامة الحقيقية لـ AbdAlqader-saadeh -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdAlqader-saadeh&show_icons=true&theme=tokyonight&count_private=true"/>
+  
+  <!-- اللغات الأكثر استخداماً في حسابك -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlqader-saadeh&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <!-- عداد الـ Streak للمساهمات المستقرة -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdAlqader-saadeh&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,18 +74,17 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 <p align="center">
 
-<!-- ضع رابط بريدك الإلكتروني هنا -->
+<!-- يمكنك تعديل بريدك الإلكتروني هنا -->
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- ضع رابط حسابك على لينكد إن هنا -->
+<!-- يمكنك وضع رابط حسابك على لينكد إن هنا مكان YOUR_LINKEDIN_USERNAME -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- ضع رابط حسابك على جيتهاب هنا -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AbdAlqader-saadeh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
