@@ -53,19 +53,19 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📊 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Maintained_Repos-Active-success?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Code_Style-Clean_&_OOP-orange?style=for-the-badge" />
+  <!-- قراءة تفاصيل الحساب واللغات مباشرة من الملفات الديناميكية المولدة في حسابك -->
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
 </p>
 
-| 🚀 System / Platform | 🛠️ Core Technologies | 📈 Status |
-| :--- | :--- | :--- |
-| **School-App** | Laravel, PHP, MySQL | Completed |
-| **Attendance System** | Laravel 11, Bootstrap 5 | Active |
-| **Bank Management** | C++, OOP Principles | Completed |
+<p align="center">
+  <!-- قراءة لغات الـ Commits والإحصائيات العامة -->
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%" />
+</p>
 
 ---
 
@@ -73,12 +73,10 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 
 <p align="center">
 
-<!-- يمكنك تعديل بريدك الإلكتروني هنا -->
 <a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- يمكنك وضع رابط حسابك على لينكد إن هنا مكان YOUR_LINKEDIN_USERNAME -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
