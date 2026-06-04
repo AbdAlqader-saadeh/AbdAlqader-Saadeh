@@ -65,10 +65,11 @@ A desktop application designed and built using **C++** and core **Object-Oriente
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-<!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك على جيتهاب في الروابط الثلاثة أدناه -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
